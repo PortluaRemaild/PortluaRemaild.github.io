@@ -1,0 +1,17 @@
+body {
+  font-family: Verdana, sans-serif;
+  background: #fffdf5;
+  margin: 0;
+}
+header {
+  background: #006600;
+  color: white;
+  padding: 1em;
+}
+a {
+  color: #006600;
+  font-weight: bold;
+}
+main {
+  padding: 2em;
+}

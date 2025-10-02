@@ -1,0 +1,16 @@
+body {
+  font-family: Georgia, serif;
+  background: #eef7f0;
+  margin: 0;
+}
+header {
+  background: #800000;
+  color: white;
+  padding: 1em;
+}
+a {
+  color: #800000;
+}
+main {
+  padding: 2em;
+}
